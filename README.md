@@ -1,5 +1,9 @@
 ## Management System
+<<<<<<< HEAD
 본 프로젝트는 React 로 만들어진 예약&고객관리시스템() 입니다.
+=======
+본 프로젝트는 React 를  고객관리시스템() 입니다.
+>>>>>>> 1b1a1abd2fa241bcb2658e67976fb052bf36a7c5
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
